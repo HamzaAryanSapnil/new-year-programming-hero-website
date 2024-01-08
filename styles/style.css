@@ -37,6 +37,7 @@ padding: 25px;
   background-color:  lightgray; 
   display: flex;
   justify-content: right;
+  margin-bottom: 140px;
 }
 .header-content{
   max-width: 530px;
@@ -58,3 +59,11 @@ font-style: normal;
 font-weight: 400;
 line-height: 26px; /* 162.5% */
 }
+
+/* main related styles */
+main{
+  max-width: 1600px;
+  margin: 0 auto;
+}
+/* failure section related styles */
+
